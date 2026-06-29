@@ -1,0 +1,21 @@
+*
+!*/
+
+# Build outputs
+**/.next/
+**/dist/
+**/build/
+
+# YAML
+!**/*.yml
+!**/*.yaml
+**/pnpm-lock.yaml
+
+# Markdown
+!**/*.md
+
+# SQL
+!**/*.sql
+
+# package.json
+!**/package.json

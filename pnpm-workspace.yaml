@@ -1,0 +1,10 @@
+packages:
+  - apps/*
+  - packages/*
+
+allowBuilds:
+  lefthook: true
+  sharp: true
+
+saveExact: true
+engineStrict: true
