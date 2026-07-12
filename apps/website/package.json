@@ -6,7 +6,7 @@
     "build": "next build",
     "dev": "next dev",
     "start": "next start",
-    "tscheck": "tsc"
+    "typecheck": "tsc"
   },
   "dependencies": {
     "@emotion/cache": "11.14.0",

@@ -6,7 +6,7 @@
     "format": "biome check --write --unsafe . && prettier --write .",
     "lint": "biome check . && prettier --check .",
     "prepare": "lefthook install",
-    "tscheck": "pnpm -r --parallel tscheck"
+    "typecheck": "pnpm -r --parallel typecheck"
   },
   "devDependencies": {
     "@biomejs/biome": "2.5.3",
